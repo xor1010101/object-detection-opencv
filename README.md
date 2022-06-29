@@ -2,7 +2,7 @@
 
 Small object detection example in Python3 based on the HAAR cascade classifier from OpenCV
 
-![Sample record of face detection](https://raw.githubusercontent.com/xor1010101/object-detection-opencv/main/record.gif)
+![Sample record of face detection](record.gif)
 
 # Usage
 
